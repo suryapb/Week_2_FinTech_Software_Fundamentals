@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2026-08-17",
+        "base": "USD",
+        "quote": "EUR",
+        "rate": 0.86412
+    },
+    {
+        "date": "2026-08-17",
+        "base": "USD",
+        "quote": "GBP",
+        "rate": 0.73922
+    },
+    {
+        "date": "2026-08-17",
+        "base": "USD",
+        "quote": "INR",
+        "rate": 95.42
+    },
+    {
+        "date": "2026-08-17",
+        "base": "USD",
+        "quote": "JPY",
+        "rate": 159.23
+    }
+]
